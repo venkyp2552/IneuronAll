@@ -1,0 +1,9 @@
+HardHat Config and Commands
+	-npm i
+	-npx hardhat compile
+	-npx hardhat test 
+	-npx hardhat node
+  --> In New termina run below command
+	-npx hardhat run scripts/deploy.js --network localhost
+
+Install WebChrome extension moesif origin & cors changer
